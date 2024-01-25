@@ -1,0 +1,23 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+#title-block {
+    background-color: green;
+    color: red;
+
+}
+
+#nav-bar {
+    background-color: lightgrey;
+}
+ol{
+    list-style-type: none;
+}
+ul{
+    list-style-type: none;
+}
+
+p{
+    background-color: antiquewhite;
+}
