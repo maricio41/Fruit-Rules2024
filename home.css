@@ -8,7 +8,7 @@ body{
     justify-content: space-between;
     justify-content: baseline;
     background-color: green;
-    color: red;
+    color: yellow;
     margin-top: 1rem;
     padding-top: 1rem;
     padding-left: 1rem;
@@ -30,7 +30,6 @@ button{
 }
 ol{
     list-style-type: none;
-    list-style: none;
     display: flex;
     justify-content: space-between;
     color: whitesmoke;
@@ -47,6 +46,7 @@ p{
     text-align: justify;
     padding: 5px;
     margin: 100px 200px;
+    
 }
 .nav-div{
 
@@ -72,6 +72,7 @@ footer{
     height: 35px;
     padding: 5px 15px 15px 0px;
     margin-top: 5px;
+    font-size: 15px;
 }
 
 img {
