@@ -78,3 +78,7 @@ footer{
 img {
     margin-top: 15px;
 }
+#welcome-msg{
+    display: flex;
+    justify-content: center;
+}
