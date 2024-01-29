@@ -32,7 +32,7 @@ ol{
     list-style-type: none;
     display: flex;
     justify-content: space-between;
-    color: whitesmoke;
+    color: blue;
 }
 ul{
     list-style-type: none;
